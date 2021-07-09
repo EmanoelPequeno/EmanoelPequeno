@@ -1,16 +1,37 @@
-### Hi there 👋
+# Olá, terráqueo! 👽
 
-<!--
-**EmanoelPequeno/EmanoelPequeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim 🖖
 
-Here are some ideas to get you started:
+  Me chamo **Emanoel Pequeno** e atualmente sou estudante de `Programação Web`. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Pretendo me graduar em `Análise e Desenvolvimento de Sistemas` e até lá busco ocupar meu tempo aplicando o máximo de conceitos que adquiro através de pesquisas e cursos de baixa carga horária.
+
+  Ah, atualmente estou participando do processo seletivo do **Santader Coders - Web Full Stack**!
+
+### Dev Skills 🚀
+  
+<div id="dev">
+  <img src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg' height="40"width="40"> 
+  <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg' height="40"width="40">
+  <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg' height="40"width="40">
+  <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg' height="40"width="40">
+  <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg' height="40"width="40">
+  <img src='https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg' height="40"width="40">   
+</div>
+
+### Design Skills 🎨
+
+<div id="design">
+  <img src='https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg' height="40"width="40">
+  <img src='https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg' height="40"width="40">
+  <img src='https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg' height="40"width="40">
+</div>
+
+### Me dê um Oi! 👋
+
+<div id="contact">
+  <a target="_blank" href="https://www.linkedin.com/in/emanoel-sousa/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height="40"width="40"></a>
+  <a target="_blank" href="mailto:emanoelpequeno5@gmail.com"><img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" height="40"width="40"></a>
+</div>
+  
+
