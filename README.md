@@ -32,6 +32,7 @@
   <a target="_blank" href="mailto:emanoelpequeno5@gmail.com"><img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" height="40"width="40"></a>
 </div>
 
+</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanoelpequeno&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
